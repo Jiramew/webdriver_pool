@@ -4,4 +4,4 @@
 .pypirc
 dist/
 build/
-spoonproxy.egg-info/
+*.egg-info/
