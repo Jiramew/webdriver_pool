@@ -2,7 +2,7 @@
 
 Webdriver Pool is library for building a pool of Webdriver when using Selenium.
 
-Only running on python 3.
+Only running on python 3. Now only support Phantomjs.
 
 Here is the demo code:
 ```python
