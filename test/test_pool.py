@@ -8,7 +8,7 @@ if __name__ == "__main__":
     for i in range(10):
         driver = wd.acquire()
         print(driver.session_id)
-        driver.get("www.baidu.com")
+        driver.get("https://www.baidu.com")
         wd.release(driver)
         time.sleep(1)
     wd.stop()
